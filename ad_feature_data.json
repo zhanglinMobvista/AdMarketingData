@@ -1,0 +1,1890 @@
+{
+    "success": true,
+    "data_type": "compressed_ad_feature_data",
+    "total_records": 100,
+    "summary": {
+        "total_records": 100,
+        "copy_type_frequency": {
+            "benefit": 296,
+            "feature": 190,
+            "cta": 139,
+            "product_name": 79,
+            "title": 75,
+            "slogan": 45,
+            "data": 41,
+            "disclaimer": 38,
+            "campaign": 32,
+            "discount": 25,
+            "narrative": 20,
+            "proof": 19,
+            "price": 18,
+            "channel": 16,
+            "spec": 14,
+            "plot_exposition": 13,
+            "info_notice": 11,
+            "endorsement": 10,
+            "limited_time": 9,
+            "pain_point": 7,
+            "attract": 2,
+            "pain_point_direct_hit": 1
+        },
+        "copy_role_frequency": {
+            "explain": 430,
+            "attract": 225,
+            "drive_conversion": 187,
+            "info_notice": 132,
+            "prove": 58,
+            "plot_exposition": 45,
+            "narrative": 13,
+            "benefit": 9,
+            "proof": 1
+        },
+        "visual_style_frequency": {
+            "realistic photography": 67,
+            "pure UI screen": 32,
+            "flat graphics": 21,
+            "2D cartoon": 17,
+            "3D cartoon": 12,
+            "anime-style": 9,
+            "minimal design": 8,
+            "3D realistic modeling": 7,
+            "motion_graphics": 3,
+            "motion graphics": 3,
+            "pure_UI_screen": 3,
+            "AI generated": 2,
+            "3D_realistic_modeling": 2,
+            "pixel art": 2,
+            "UI screen": 1,
+            "graffiti": 1,
+            "data visualization": 1,
+            "game graphics": 1,
+            "abstract graphics": 1,
+            "3D_cartoon": 1,
+            "realistic_photography": 1,
+            "cyber_sci-fi": 1,
+            "comic panels": 1,
+            "3D animation": 1,
+            "3D_animation": 1
+        },
+        "theme_direction_frequency": {
+            "gameplay_showcase": 22,
+            "product_showcase": 20,
+            "product_demonstration": 6,
+            "product_promotion": 4,
+            "problem_solution": 4,
+            "short_drama": 2,
+            "app_showcase": 2,
+            "property_showcase": 2,
+            "storytelling": 2,
+            "story_teasing": 1,
+            "event_promotion": 1,
+            "educational_tutorial": 1,
+            "platform_promotion": 1,
+            "earning_money_game_showcase": 1,
+            "promotion_campaign": 1,
+            "sales_promotion": 1,
+            "financial_gain": 1,
+            "user_success_story": 1,
+            "app_promotion": 1,
+            "travel booking convenience": 1,
+            "plot_exposition": 1,
+            "content_promotion": 1,
+            "earning_game_showcase": 1,
+            "informational_tutorial": 1,
+            "information_presentation": 1,
+            "problem-solution": 1,
+            "campaign_promotion": 1,
+            "fashion_showcase": 1,
+            "drama_narration": 1,
+            "drama": 1
+        },
+        "communication_pattern_frequency": {
+            "spoken_explanation": 47,
+            "benefit_popup": 43,
+            "data_showcase": 37,
+            "step_by_step_tutorial": 28,
+            "fast_cut_montage": 20,
+            "pain_point_direct_hit": 19,
+            "checklist_or_bullet_series": 16,
+            "price_tag_card": 16,
+            "contrast_before_after": 14,
+            "short_drama": 11,
+            "conflict_intro": 10,
+            "user_testimonial": 10,
+            "product_review": 9,
+            "limited_time_card": 8,
+            "spoken explanation": 8,
+            "suspense_question": 7,
+            "data showcase": 4,
+            "product_showcase": 4,
+            "user testimonial": 4,
+            "short drama": 3,
+            "KOL_recommendation": 3,
+            "unboxing": 3,
+            "FAQ_QA": 3,
+            "contrast before-after": 3,
+            "benefit popup": 2,
+            "fast cut montage": 2,
+            "split_screen": 2,
+            "feature_showcase": 2,
+            "problem_solution": 2,
+            "picture_in_picture_explainer": 2
+        },
+        "production_method_frequency": {
+            "live-action": 69,
+            "screen_recording": 47,
+            "motion_graphics": 41,
+            "3D_animation": 19,
+            "2D_animation": 14,
+            "AI_generated": 6,
+            "CG": 2,
+            "digital_human": 2,
+            "live_action": 2,
+            "collage_of_assets": 1
+        },
+        "selling_point_frequency": {
+            "easy to use": 4,
+            "easy play": 2,
+            "high quality": 2,
+            "addictive gameplay": 2,
+            "wide selection": 2,
+            "find partner": 2,
+            "puzzle solving": 2,
+            "diverse characters": 2,
+            "entertainment": 1,
+            "free_content": 1,
+            "HD audio": 1,
+            "diverse content": 1,
+            "popular adaptations": 1,
+            "event atmosphere": 1,
+            "live music": 1,
+            "unique venue": 1,
+            "AI speed": 1,
+            "comprehensive plan": 1,
+            "easy design": 1,
+            "foolproof guidance": 1,
+            "stunning visuals": 1,
+            "absorb more minerals": 1,
+            "boost immune system": 1,
+            "lessen blood sugar impact": 1,
+            "cute widgets": 1,
+            "diverse themes": 1,
+            "easy installation": 1,
+            "personalized phone": 1,
+            "massive dramas": 1,
+            "on-demand viewing": 1
+        },
+        "emotion_frequency": {
+            "excitement": 39,
+            "satisfaction": 25,
+            "joy": 14,
+            "relief": 10,
+            "informative": 9,
+            "calm": 7,
+            "trust": 7,
+            "hope": 6,
+            "surprise": 5,
+            "curiosity": 5,
+            "happiness": 4,
+            "suspense": 4,
+            "concern": 3,
+            "inspiration": 3,
+            "playful": 3,
+            "comfort": 3,
+            "engaging": 3,
+            "anticipation": 3,
+            "fun": 3,
+            "convenience": 3,
+            "relaxation": 3,
+            "frustration": 3,
+            "optimistic": 3,
+            "sadness": 2,
+            "joyful": 2,
+            "romantic": 2,
+            "ease": 2,
+            "helpful": 2,
+            "excited": 2,
+            "satisfying": 2
+        },
+        "hvpc_frequency": {
+            "hook": 100,
+            "verify": 98,
+            "cta": 76,
+            "proof": 55
+        }
+    },
+    "top_combinations": {
+        "ThemeDirection_x_VisualStyle_x_CopyTypes": [
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "anime-style",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "cta+product_name",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "short_drama",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "story_teasing",
+                "Visual.Style": "anime-style",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "story_teasing",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "event_promotion",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "AI generated",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "educational_tutorial",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+channel+cta+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "platform_promotion",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "platform_promotion",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "3D realistic modeling",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "3D_realistic_modeling",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "motion_graphics",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "3D cartoon",
+                "Copy.types": "benefit+campaign+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+campaign+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "sales_promotion",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+disclaimer+discount+endorsement+feature+limited_time+price",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "sales_promotion",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+disclaimer+discount+endorsement+feature+limited_time+price",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+campaign+cta+disclaimer+discount+endorsement+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+cta+disclaimer+discount+endorsement+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "financial_gain",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+channel+cta+disclaimer+feature+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "financial_gain",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+channel+cta+disclaimer+feature+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+feature+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+feature+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_demonstration",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_demonstration",
+                "Visual.Style": "motion graphics",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_demonstration",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_demonstration",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_promotion",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+channel+cta+disclaimer+endorsement+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_promotion",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+campaign+channel+cta+disclaimer+endorsement+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+feature+info_notice+product_name+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature+info_notice+product_name+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_promotion",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+cta+discount+feature+price+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_promotion",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+cta+discount+feature+price+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+discount+feature+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+discount+feature+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Visual.Style": "3D cartoon",
+                "Copy.types": "benefit+campaign+cta+data+feature+product_name+slogan+title",
+                "frequency": 1
+            }
+        ],
+        "ThemeDirection_x_CommunicationPatterns_x_CopyTypes": [
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "fast_cut_montage",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "benefit+campaign+cta+data+feature+product_name+slogan+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "benefit+campaign+cta+data+feature+product_name+slogan+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "fast_cut_montage",
+                "Copy.types": "benefit+campaign+cta+data+feature+product_name+slogan+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+campaign+cta+data+feature+product_name+slogan+title",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "fast_cut_montage",
+                "Copy.types": "cta+product_name",
+                "frequency": 2
+            },
+            {
+                "Creative.ThemeDirection": "short_drama",
+                "Creative.CommunicationPatterns": "conflict_intro",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "short_drama",
+                "Creative.CommunicationPatterns": "short_drama",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "short_drama",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "short_drama",
+                "Creative.CommunicationPatterns": "suspense_question",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "story_teasing",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "story_teasing",
+                "Creative.CommunicationPatterns": "short_drama",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "story_teasing",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "event_promotion",
+                "Creative.CommunicationPatterns": "benefit popup",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "event_promotion",
+                "Creative.CommunicationPatterns": "data showcase",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "event_promotion",
+                "Creative.CommunicationPatterns": "fast cut montage",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "event_promotion",
+                "Creative.CommunicationPatterns": "short drama",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "contrast_before_after",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "fast_cut_montage",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "step_by_step_tutorial",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "educational_tutorial",
+                "Creative.CommunicationPatterns": "checklist_or_bullet_series",
+                "Copy.types": "benefit+channel+cta+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "educational_tutorial",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+channel+cta+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "educational_tutorial",
+                "Creative.CommunicationPatterns": "step_by_step_tutorial",
+                "Copy.types": "benefit+channel+cta+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "checklist_or_bullet_series",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "suspense_question",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "platform_promotion",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "platform_promotion",
+                "Creative.CommunicationPatterns": "short_drama",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "platform_promotion",
+                "Creative.CommunicationPatterns": "split_screen",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "step_by_step_tutorial",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "gameplay_showcase",
+                "Creative.CommunicationPatterns": "fast_cut_montage",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Creative.CommunicationPatterns": "short_drama",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Creative.CommunicationPatterns": "spoken_explanation",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "earning_money_game_showcase",
+                "Creative.CommunicationPatterns": "user_testimonial",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Creative.CommunicationPatterns": "checklist_or_bullet_series",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Creative.CommunicationPatterns": "limited_time_card",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "promotion_campaign",
+                "Creative.CommunicationPatterns": "lottery_or_task",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "KOL_recommendation",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "benefit_popup",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "data_showcase",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "feature_showcase",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Creative.ThemeDirection": "product_showcase",
+                "Creative.CommunicationPatterns": "price_tag_card",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            }
+        ],
+        "CharacterType_x_VisualStyle_x_CopyTypes": [
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "(NONE)",
+                "frequency": 3
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "cta+product_name",
+                "frequency": 2
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "channel+cta+disclaimer+product_name+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "anime-style",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "AI generated",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+channel+cta+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "anime-style",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['real person']",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['real person']",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+disclaimer+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "3D realistic modeling",
+                "Copy.types": "benefit+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "3D_realistic_modeling",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "motion_graphics",
+                "Copy.types": "cta+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+data+disclaimer+feature+plot_exposition+price+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+channel+disclaimer+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+data+discount+feature+price+product_name+proof",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+feature+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "3D cartoon",
+                "Copy.types": "benefit+campaign+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "non-real person",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+campaign+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+disclaimer+discount+endorsement+feature+limited_time+price",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+disclaimer+discount+endorsement+feature+limited_time+price",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['non-real person']",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+campaign+cta+disclaimer+discount+endorsement+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['non-real person']",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+cta+disclaimer+discount+endorsement+feature+product_name+slogan",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+channel+cta+disclaimer+feature+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+channel+cta+disclaimer+feature+product_name+proof+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+feature+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+feature+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "motion graphics",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "pure UI screen",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+channel+cta+feature",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+channel+cta+disclaimer+endorsement+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "minimal design",
+                "Copy.types": "benefit+campaign+channel+cta+disclaimer+endorsement+feature+product_name",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['non-real person', 'real person']",
+                "Visual.Style": "2D cartoon",
+                "Copy.types": "benefit+cta+feature+info_notice+product_name+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "['non-real person', 'real person']",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+cta+feature+info_notice+product_name+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+campaign+cta+discount+feature+price+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "real person",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+campaign+cta+discount+feature+price+proof+slogan+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "flat graphics",
+                "Copy.types": "benefit+discount+feature+product_name+title",
+                "frequency": 1
+            },
+            {
+                "Character.CharacterType": "(NONE)",
+                "Visual.Style": "realistic photography",
+                "Copy.types": "benefit+discount+feature+product_name+title",
+                "frequency": 1
+            }
+        ],
+        "HVPC_x_CopyRoles": [
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+prove",
+                "frequency": 12
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice",
+                "frequency": 7
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion+explain",
+                "frequency": 6
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice",
+                "frequency": 5
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion+info_notice",
+                "frequency": 4
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+prove",
+                "frequency": 4
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "attract+explain+info_notice",
+                "frequency": 3
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+prove",
+                "frequency": 3
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion",
+                "frequency": 3
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion+explain+plot_exposition",
+                "frequency": 3
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+explain",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+plot_exposition",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+plot_exposition+prove",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+explain",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "(NONE)",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "(NONE)",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+info_notice",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+plot_exposition+prove",
+                "frequency": 2
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "drive_conversion+explain+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+drive_conversion+explain",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "drive_conversion+narrative+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+benefit+drive_conversion+explain+info_notice+narrative+proof+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+explain+info_notice+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+drive_conversion+explain+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+narrative",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "drive_conversion+explain+info_notice+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "drive_conversion+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+cta",
+                "Copy.roles": "drive_conversion+explain",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "explain+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+benefit+drive_conversion+explain+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "attract",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+cta",
+                "Copy.roles": "attract+drive_conversion+explain",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+explain+info_notice+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "drive_conversion+explain+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "attract+drive_conversion+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "attract+drive_conversion+explain",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+drive_conversion+explain+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "(NONE)",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+narrative+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "attract+explain+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+plot_exposition+prove",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+narrative",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify",
+                "Copy.roles": "attract+info_notice",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+cta",
+                "Copy.roles": "drive_conversion+explain+info_notice+plot_exposition",
+                "frequency": 1
+            },
+            {
+                "hvpc": "hook+verify+proof+cta",
+                "Copy.roles": "attract+drive_conversion+explain+info_notice+narrative+plot_exposition+prove",
+                "frequency": 1
+            }
+        ]
+    },
+    "sample_records": [
+        {
+            "record_id": 1,
+            "Character.CharacterType": "real person",
+            "OtherElements.Scene": "field",
+            "Language.VisualLanguage": "cn",
+            "Visual.Style": [
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "live-action"
+            ],
+            "Creative.ThemeDirection": "short_drama",
+            "Creative.CommunicationPatterns": [
+                "conflict_intro",
+                "short_drama",
+                "spoken_explanation",
+                "suspense_question"
+            ],
+            "Creative.SellingPoints": [
+                "entertainment",
+                "free_content"
+            ],
+            "Creative.Emotions": [
+                "concern",
+                "empathy",
+                "sadness"
+            ],
+            "Copy.types": [
+                "channel",
+                "cta",
+                "disclaimer",
+                "product_name",
+                "slogan",
+                "title"
+            ],
+            "Copy.roles": [
+                "attract",
+                "drive_conversion",
+                "info_notice"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 2,
+            "OtherElements.Scene": "palace courtyard",
+            "Language.VisualLanguage": "cn",
+            "Visual.Style": [
+                "anime-style",
+                "pure UI screen"
+            ],
+            "Visual.ColorTemperature": "cool",
+            "Visual.Brightness": "dark",
+            "Visual.Saturation": "low_saturation",
+            "Creative.ProductionMethod": [
+                "2D_animation",
+                "screen_recording"
+            ],
+            "Creative.ThemeDirection": "story_teasing",
+            "Creative.CommunicationPatterns": [
+                "data_showcase",
+                "short_drama",
+                "spoken_explanation"
+            ],
+            "Creative.SellingPoints": [
+                "HD audio",
+                "diverse content",
+                "popular adaptations"
+            ],
+            "Creative.Emotions": [
+                "melancholy"
+            ],
+            "Copy.types": [
+                "feature",
+                "product_name",
+                "slogan"
+            ],
+            "Copy.roles": [
+                "attract",
+                "explain"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 3,
+            "Character.CharacterType": "real person",
+            "OtherElements.Scene": "concert hall",
+            "Language.VisualLanguage": "en",
+            "Visual.Style": [
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "live-action"
+            ],
+            "Creative.ThemeDirection": "event_promotion",
+            "Creative.CommunicationPatterns": [
+                "benefit popup",
+                "data showcase",
+                "fast cut montage",
+                "short drama"
+            ],
+            "Creative.SellingPoints": [
+                "event atmosphere",
+                "live music",
+                "unique venue"
+            ],
+            "Creative.Emotions": [
+                "joyful",
+                "romantic"
+            ],
+            "Copy.types": [
+                "feature",
+                "title"
+            ],
+            "Copy.roles": [
+                "info_notice"
+            ],
+            "hvpc": [
+                "hook",
+                "verify"
+            ]
+        },
+        {
+            "record_id": 4,
+            "OtherElements.Scene": [
+                "construction site",
+                "interior"
+            ],
+            "Language.VisualLanguage": "en",
+            "Visual.Style": [
+                "AI generated",
+                "pure UI screen",
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "AI_generated",
+                "live-action",
+                "screen_recording"
+            ],
+            "Creative.ThemeDirection": "product_showcase",
+            "Creative.CommunicationPatterns": [
+                "contrast_before_after",
+                "data_showcase",
+                "fast_cut_montage",
+                "spoken_explanation",
+                "step_by_step_tutorial"
+            ],
+            "Creative.SellingPoints": [
+                "AI speed",
+                "comprehensive plan",
+                "easy design",
+                "foolproof guidance",
+                "stunning visuals"
+            ],
+            "Creative.Emotions": [
+                "ease",
+                "excitement",
+                "inspiration",
+                "satisfaction"
+            ],
+            "Copy.types": [
+                "benefit",
+                "cta",
+                "feature"
+            ],
+            "Copy.roles": [
+                "attract",
+                "drive_conversion",
+                "explain"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 5,
+            "Character.CharacterType": "real person",
+            "Character.CharacterTraitsAndIdentity": "health expert",
+            "OtherElements.Scene": "kitchen",
+            "Language.VisualLanguage": "en",
+            "Visual.Style": [
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "live-action",
+                "motion_graphics"
+            ],
+            "Creative.ThemeDirection": "educational_tutorial",
+            "Creative.CommunicationPatterns": [
+                "checklist_or_bullet_series",
+                "spoken_explanation",
+                "step_by_step_tutorial"
+            ],
+            "Creative.SellingPoints": [
+                "absorb more minerals",
+                "boost immune system",
+                "lessen blood sugar impact"
+            ],
+            "Creative.Emotions": [
+                "calm",
+                "helpful",
+                "informative"
+            ],
+            "Copy.types": [
+                "benefit",
+                "channel",
+                "cta",
+                "feature",
+                "product_name"
+            ],
+            "Copy.roles": [
+                "drive_conversion",
+                "explain",
+                "info_notice"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 6,
+            "Language.VisualLanguage": "cn",
+            "Visual.Style": [
+                "2D cartoon",
+                "anime-style",
+                "flat graphics",
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "cool",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "2D_animation",
+                "CG",
+                "motion_graphics",
+                "screen_recording"
+            ],
+            "Creative.ThemeDirection": "gameplay_showcase",
+            "Creative.CommunicationPatterns": [
+                "checklist_or_bullet_series",
+                "fast_cut_montage",
+                "spoken_explanation",
+                "suspense_question"
+            ],
+            "Creative.SellingPoints": [
+                "cute widgets",
+                "diverse themes",
+                "easy installation",
+                "personalized phone"
+            ],
+            "Creative.Emotions": [
+                "excited",
+                "happy",
+                "playful"
+            ],
+            "Copy.types": [
+                "benefit",
+                "cta",
+                "feature",
+                "title"
+            ],
+            "Copy.roles": [
+                "attract",
+                "drive_conversion",
+                "explain"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 7,
+            "Character.CharacterType": [
+                "real person"
+            ],
+            "Character.CharacterTraitsAndIdentity": [
+                "nobility"
+            ],
+            "OtherElements.Scene": [
+                "bedroom",
+                "garden"
+            ],
+            "Language.VisualLanguage": [
+                "zh"
+            ],
+            "Visual.Style": [
+                "flat graphics",
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "AI_generated",
+                "motion_graphics"
+            ],
+            "Creative.ThemeDirection": "platform_promotion",
+            "Creative.CommunicationPatterns": [
+                "benefit_popup",
+                "short_drama",
+                "split_screen"
+            ],
+            "Creative.SellingPoints": [
+                "massive dramas",
+                "on-demand viewing"
+            ],
+            "Creative.Emotions": [
+                "comfort",
+                "romantic",
+                "sweet"
+            ],
+            "Copy.types": [
+                "benefit",
+                "cta",
+                "disclaimer",
+                "product_name",
+                "title"
+            ],
+            "Copy.roles": [
+                "attract",
+                "drive_conversion",
+                "explain",
+                "info_notice"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 8,
+            "Character.CharacterType": "non-real person",
+            "Character.CharacterTraitsAndIdentity": "Uncertain",
+            "OtherElements.Scene": "Palace",
+            "Language.VisualLanguage": "cn",
+            "Visual.Style": [
+                "2D cartoon",
+                "3D realistic modeling"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "screen_recording"
+            ],
+            "Creative.ThemeDirection": "gameplay_showcase",
+            "Creative.CommunicationPatterns": [
+                "spoken_explanation",
+                "step_by_step_tutorial"
+            ],
+            "Creative.SellingPoints": [
+                "宫廷情感世界",
+                "情感深度"
+            ],
+            "Creative.Emotions": [
+                "engaging",
+                "intrigue"
+            ],
+            "Copy.types": [
+                "benefit",
+                "product_name",
+                "slogan"
+            ],
+            "Copy.roles": [
+                "attract",
+                "drive_conversion",
+                "explain"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "proof"
+            ]
+        },
+        {
+            "record_id": 9,
+            "Language.VisualLanguage": "en",
+            "Visual.Style": [
+                "3D_realistic_modeling",
+                "motion_graphics"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "3D_animation",
+                "motion_graphics"
+            ],
+            "Creative.ThemeDirection": "gameplay_showcase",
+            "Creative.CommunicationPatterns": [
+                "benefit_popup",
+                "data_showcase",
+                "fast_cut_montage"
+            ],
+            "Creative.SellingPoints": [
+                "combo_system",
+                "tile_matching"
+            ],
+            "Creative.Emotions": [
+                "calm",
+                "satisfying"
+            ],
+            "Copy.types": [
+                "cta",
+                "product_name",
+                "slogan"
+            ],
+            "Copy.roles": [
+                "drive_conversion",
+                "narrative",
+                "plot_exposition"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "cta"
+            ]
+        },
+        {
+            "record_id": 10,
+            "Character.CharacterType": "real person",
+            "Character.CharacterTraitsAndIdentity": [
+                "interviewer",
+                "participant"
+            ],
+            "OtherElements.Scene": "outdoor cafe",
+            "Language.VisualLanguage": "en",
+            "Visual.Style": [
+                "2D cartoon",
+                "realistic photography"
+            ],
+            "Visual.ColorTemperature": "warm",
+            "Visual.Brightness": "bright",
+            "Visual.Saturation": "high_saturation",
+            "Creative.ProductionMethod": [
+                "live-action",
+                "screen_recording"
+            ],
+            "Creative.ThemeDirection": "earning_money_game_showcase",
+            "Creative.CommunicationPatterns": [
+                "benefit_popup",
+                "data_showcase",
+                "short_drama",
+                "spoken_explanation",
+                "user_testimonial"
+            ],
+            "Creative.SellingPoints": [
+                "easy play",
+                "fast payout",
+                "high earnings",
+                "no limits"
+            ],
+            "Creative.Emotions": [
+                "aspirational",
+                "excitement",
+                "surprise"
+            ],
+            "Copy.types": [
+                "benefit",
+                "cta",
+                "data",
+                "disclaimer",
+                "feature",
+                "plot_exposition",
+                "price",
+                "product_name",
+                "proof",
+                "title"
+            ],
+            "Copy.roles": [
+                "attract",
+                "benefit",
+                "drive_conversion",
+                "explain",
+                "info_notice",
+                "narrative",
+                "proof",
+                "prove"
+            ],
+            "hvpc": [
+                "hook",
+                "verify",
+                "proof",
+                "cta"
+            ]
+        }
+    ]
+}
