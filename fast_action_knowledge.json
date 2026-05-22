@@ -1,0 +1,266 @@
+[
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_01",
+    "action_cn": "视觉突变",
+    "action_en": "Visual Disruption",
+    "action_def_cn": "开场使用快速剪辑(fastcutmontage)或视觉风格突变，在0-3秒内制造强烈视觉冲击，打断用户浏览惯性。",
+    "action_def_en": "Use rapid cuts or sudden visual style shifts in the opening seconds to create immediate visual impact and interrupt passive scrolling."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_02",
+    "action_cn": "认知失调",
+    "action_en": "Cognitive Dissonance",
+    "action_def_cn": "通过前后对比(contrastbeforeafter)或反常识信息，制造认知冲突，触发用户好奇与探索欲。",
+    "action_def_en": "Create cognitive conflict through before-and-after contrasts or counterintuitive information to spark curiosity and exploration."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_03",
+    "action_cn": "互动拟态",
+    "action_en": "Conversational Engagement",
+    "action_def_cn": "使用提问式开场(suspense_question)或拟人化交互，建立\"我在与你对话\"的即时感，提升参与度。",
+    "action_def_en": "Use question-based openings or human-like interaction cues to create the feeling of a direct conversation with the viewer."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_04",
+    "action_cn": "情绪强暴",
+    "action_en": "Emotional Shock",
+    "action_def_cn": "直接呈现痛点(painpointdirect_hit)或负面情绪场景(sadness/concern)，在3秒内触发情绪共鸣，强制关注。",
+    "action_def_en": "Directly present pain points or emotionally intense situations to trigger immediate emotional resonance and force attention."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_05",
+    "action_cn": "悬念植入",
+    "action_en": "Suspense Seeding",
+    "action_def_cn": "在开场植入未完成的叙事或问题，制造信息缺口，驱动用户继续观看以获取答案。",
+    "action_def_en": "Introduce an unresolved narrative or unanswered question at the beginning to create an information gap that drives continued viewing."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_06",
+    "action_cn": "反常识钩",
+    "action_en": "Counterintuitive Hook",
+    "action_def_cn": "展示反直觉的技巧或方法，打破用户固有认知，激发\"原来如此\"的求知欲。",
+    "action_def_en": "Present unexpected methods or surprising insights that challenge existing assumptions and stimulate curiosity."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_07",
+    "action_cn": "利益直钩",
+    "action_en": "Direct Benefit Hook",
+    "action_def_cn": "在开场0-5秒内直接展示核心利益点(benefit_popup)，如免费、折扣、赠品等，触发利益敏感型用户。",
+    "action_def_en": "Immediately present core benefits such as discounts, freebies, or rewards in the first few seconds to attract value-sensitive users."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_08",
+    "action_cn": "身份标签钩",
+    "action_en": "Identity-Based Hook",
+    "action_def_cn": "使用特定身份标签(Character.CharacterTraitsAndIdentity)如专家、KOL等，精准圈定目标人群，触发\"这是我关心的内容\"识别。",
+    "action_def_en": "Use identity labels such as experts or influencers to precisely target specific audiences and trigger relevance recognition."
+  },
+  {
+    "fast_dimension": "Hook",
+    "action_id": "F_09",
+    "action_cn": "危机预警钩",
+    "action_en": "Crisis Warning Hook",
+    "action_def_cn": "呈现潜在风险或问题(conflict_intro)，制造紧迫感和危机意识，驱动用户关注解决方案。",
+    "action_def_en": "Highlight potential risks or problems to create urgency and encourage viewers to seek solutions."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_01",
+    "action_cn": "对比冲突",
+    "action_en": "Contrast Framing",
+    "action_def_cn": "通过before/after对比、竞品对比或理想vs现实对比，强化产品价值差异，降低决策难度。",
+    "action_def_en": "Use before-and-after comparisons, competitor contrasts, or ideal-versus-reality framing to emphasize product value differences."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_02",
+    "action_cn": "阶梯进化",
+    "action_en": "Stepwise Progression",
+    "action_def_cn": "将复杂过程拆解为可执行的步骤序列(stepbystep_tutorial)，逐层递进，降低认知负担，建立\"可复制\"信心。",
+    "action_def_en": "Break down complex processes into clear, sequential steps to reduce cognitive load and build confidence."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_03",
+    "action_cn": "场景还原",
+    "action_en": "Real-Life Scenario Recreation",
+    "action_def_cn": "使用实景拍摄(live-action + realistic photography)，还原真实使用场景，建立\"这就是我的生活\"代入感。",
+    "action_def_en": "Use realistic live-action scenes to recreate authentic usage situations and strengthen viewer immersion."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_04",
+    "action_cn": "过程拆解",
+    "action_en": "Process Breakdown",
+    "action_def_cn": "将产品特性或使用方法分解为具体动作(stepbysteptutorial + spokenexplanation)，配合视觉演示，实现\"看一遍就会\"效果。",
+    "action_def_en": "Decompose product features or usage methods into specific actions with visual demonstrations for easy understanding."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_05",
+    "action_cn": "爽感释放",
+    "action_en": "Satisfaction Release",
+    "action_def_cn": "通过高能时刻剪辑、成就展示、奖励弹窗等，密集释放excitement/satisfaction情绪，制造\"看了就爽\"体验。",
+    "action_def_en": "Use exciting highlights, achievement moments, or reward visuals to continuously deliver emotional gratification."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_06",
+    "action_cn": "情感共鸣",
+    "action_en": "Emotional Resonance",
+    "action_def_cn": "通过故事叙事、角色共情(concern/sadness/hope)，建立情感连接，实现\"懂我\"的品牌心智。",
+    "action_def_en": "Build emotional connection through storytelling and relatable emotional situations."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_07",
+    "action_cn": "问题重述",
+    "action_en": "Problem Reframing",
+    "action_def_cn": "聚焦用户痛点(painpointdirect_hit)，用\"你是否也...\"句式重述问题，建立\"这说的就是我\"识别。",
+    "action_def_en": "Restate user pain points in relatable language to strengthen personal identification with the issue."
+  },
+  {
+    "fast_dimension": "Angle",
+    "action_id": "A_08",
+    "action_cn": "路线对比",
+    "action_en": "Path Comparison",
+    "action_def_cn": "展示使用前后的对比路径，或不同方案的对比，强化\"选择这条路径更好\"的决策逻辑。",
+    "action_def_en": "Compare different choices or before-and-after outcomes to reinforce the superiority of a preferred solution."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_01",
+    "action_cn": "社会化验证",
+    "action_en": "Social Proof",
+    "action_def_cn": "展示用户评价、评分、销量等社会认证信息，建立\"大家都在用\"从众效应。",
+    "action_def_en": "Show reviews, ratings, sales numbers, or other social validation signals to create herd trust."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_02",
+    "action_cn": "权威背书",
+    "action_en": "Authority Endorsement",
+    "action_def_cn": "通过官方认证、行业标准(GB/ISO)、专业机构背书，建立\"官方可信\"心智。",
+    "action_def_en": "Use official certifications, industry standards, or institutional endorsements to establish credibility."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_03",
+    "action_cn": "数据量化",
+    "action_en": "Data Quantification",
+    "action_def_cn": "使用具体数据(评分、参数、对比数据等)支撑卖点，建立\"有理有据\"理性信任。",
+    "action_def_en": "Support claims with concrete numbers, metrics, or comparison data to build rational trust."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_04",
+    "action_cn": "实物证言",
+    "action_en": "Physical Verification",
+    "action_def_cn": "通过实物展示、开箱视频、QR码验证等，建立\"真实可验\"物理信任。",
+    "action_def_en": "Use product demonstrations, unboxing content, or verification methods to reinforce authenticity."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_05",
+    "action_cn": "人设一致行为",
+    "action_en": "Role-Consistent Behavior",
+    "action_def_cn": "角色行为与身份设定一致，如专家穿白大褂、厨师在厨房，建立\"专业可信\"人设信任。",
+    "action_def_en": "Align character behavior with their established identity to strengthen professional credibility."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_06",
+    "action_cn": "过程留痕",
+    "action_en": "Process Transparency",
+    "action_def_cn": "展示操作过程、后台数据、交易记录等，建立\"过程透明\"信任。",
+    "action_def_en": "Show operational processes, backend data, or transaction records to create transparency and trust."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_07",
+    "action_cn": "负面排除",
+    "action_en": "Risk Disclosure",
+    "action_def_cn": "通过免责声明(disclaimer)、风险提示等，主动暴露潜在问题，建立\"诚实可信\"反向信任。",
+    "action_def_en": "Actively acknowledge limitations or potential issues through disclaimers to build honesty-based trust."
+  },
+  {
+    "fast_dimension": "Trust",
+    "action_id": "S_08",
+    "action_cn": "第三方即时互动",
+    "action_en": "Third-Party Validation",
+    "action_def_cn": "展示第三方(如支付平台、物流平台)的即时反馈，建立\"系统可信\"技术信任。",
+    "action_def_en": "Display real-time feedback from third-party systems or platforms to enhance technical credibility."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_01",
+    "action_cn": "视听节奏",
+    "action_en": "Audiovisual Pacing",
+    "action_def_cn": "通过音乐、剪辑节奏、视觉特效，营造情绪高潮，在情绪峰值时植入CTA，提升转化率。",
+    "action_def_en": "Use music, editing rhythm, and visual effects to amplify emotional peaks and strengthen CTA impact."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_02",
+    "action_cn": "紧迫感构造",
+    "action_en": "Urgency Creation",
+    "action_def_cn": "使用限时(limited_time)、限量、倒计时等，制造\"不行动就损失\"紧迫感，触发冲动决策。",
+    "action_def_en": "Use countdowns, limited-time offers, or scarcity cues to create fear of missing out and trigger fast decisions."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_03",
+    "action_cn": "CTA指令",
+    "action_en": "Direct CTA Prompt",
+    "action_def_cn": "使用明确的行动指令(click/download/buy)，配合按钮、箭头等视觉引导，降低行动门槛。",
+    "action_def_en": "Use clear action instructions supported by visual cues such as buttons or arrows to reduce action friction."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_04",
+    "action_cn": "品牌留存",
+    "action_en": "Brand Retention",
+    "action_def_cn": "在结尾植入品牌logo、标语、品牌故事，建立品牌记忆，为后续转化蓄水。",
+    "action_def_en": "Embed logos, slogans, or brand narratives at the end to strengthen long-term brand memory."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_05",
+    "action_cn": "行动降门槛",
+    "action_en": "Low-Friction Action",
+    "action_def_cn": "强调\"免费\"\"无需注册\"\"一键操作\"等低门槛特征，降低心理防御，提升转化意愿。",
+    "action_def_en": "Highlight features such as free access, no registration, or one-click actions to reduce psychological resistance."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_06",
+    "action_cn": "后果反推",
+    "action_en": "Consequence Framing",
+    "action_def_cn": "展示不行动的负面后果(损失、风险等)，触发损失厌恶心理，驱动规避行为。",
+    "action_def_en": "Show the negative outcomes of inaction to trigger loss aversion and motivate action."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_07",
+    "action_cn": "场景化指令",
+    "action_en": "Contextual CTA",
+    "action_def_cn": "在具体使用场景中植入CTA，如\"在这个厨房，用这个工具\"，建立\"场景-行动\"条件反射。",
+    "action_def_en": "Embed calls to action directly within specific usage scenarios to create action associations."
+  },
+  {
+    "fast_dimension": "Action",
+    "action_id": "T_08",
+    "action_cn": "沉默行动",
+    "action_en": "Implicit Conversion Guidance",
+    "action_def_cn": "不使用显性CTA，通过品牌植入或内容消费自然引导，适合高信任度或品牌类内容。",
+    "action_def_en": "Guide user action naturally through branding or content immersion without explicit calls to action."
+  }
+]
